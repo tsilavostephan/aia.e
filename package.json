@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@sparticuz/chromium-min": "^141.0.0",
+    "@vercel/analytics": "^2.0.1",
     "@vercel/blob": "^2.8.0",
     "puppeteer-core": "^23.11.0",
     "puppeteer-extra": "^3.3.6",
